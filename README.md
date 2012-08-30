@@ -12,4 +12,7 @@ caveats
 
 When setting the address to which the daemon binds - be sure to use a real IP address which exists on the system. For example, the public IP of AWS instance won't work.
 
+credit
+======
+Based off https://github.com/martinrusev/amon/blob/master/contrib/amon/amonmq
 
